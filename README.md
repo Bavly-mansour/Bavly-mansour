@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Bavly-mansour electrical engineer and looking forward to improve my skills in software department in web and apps.
-- 👀 I’m interested in Flutter , web-development .
-- 🌱 I’m currently learning Flutter for mobile apps.
-
+- 👋 Hi, I’m @Bavly-mansour 
 - 📫 How to reach me via bavlymansour@gmail.com
 
 <!---
